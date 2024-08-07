@@ -43,7 +43,7 @@
 ### Automation Concepts and Techniques
 - [Ex 25 - Screen Scrapping Practise 1](Ex25-Screen_Scrapping_Practise_1)
 - [Ex 26 - Screen Scrapping Practise 2](Ex26-Screen_Scrapping_Practise_2)
-- [Ex 27 - SData Scrapping](Ex27-Data_Scrapping)
+- [Ex 27 - Data Scrapping](Ex27-Data_Scrapping)
 - [Ex 28 - PDF Extraction](Ex28-PDF_Extraction)
 - [Ex 29 - Workbook Automation](Ex29-Workbook_Automation)
 - [Ex 30 - Excel Automation](Ex30-Excel_Automation)
