@@ -11,7 +11,7 @@
     - Email Activity Package installation
     - PDF Activity Package installation
 - Ex 04 - Version Control using TFS
-- [Ex 05 - Hello World]()
+- [Ex 05 - Hello World](OAI1903-IRPA/Ex05-Hello_World)
 
 ### Variables and Arguments
 - [Ex 06 - Variable Swapping]()
